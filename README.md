@@ -10,8 +10,8 @@ The Zomato Restaurant Rating Predictor is a Flask web application that predicts 
 - **Insightful Visualizations:** Presents insightful graphs and charts for a better understanding of predictions.
 
 ## Prequiting
--Python 3.8
--Dependencies List 
+- Python 3.8
+- Dependencies List 
   - **Scikit Learn:** A machine learning library in Python.
     - Install: `pip install scikit-learn`
     - Purpose: Utilized for implementing machine learning models and data preprocessing in the project.
@@ -32,14 +32,14 @@ The Zomato Restaurant Rating Predictor is a Flask web application that predicts 
     - Install: `pip install matplotlib`
     - Purpose: Essential for generating various types of plots and charts.
 
-  - **SciPy:** A library for mathematics, science, and engineering.
-    - Install: `pip install scipy`
-    - Purpose: Offers functionality for optimization, signal and image processing, and more.
+  - **Plotly:** An interactive graphing library for Python.
+    - Install: `pip install plotly`
+    - Purpose: Used for creating interactive and visually appealing plots and dashboards.
 
-  - **XGBoost:** An optimized and efficient gradient boosting library.
-    - Install: `pip install xgboost`
-    - Purpose: Popular for building machine learning models, especially in predictive data analysis.
-
+  - **Pandas Profiling:** A library for easy and quick exploratory data analysis with Pandas.
+    - Install: `pip install ydata_profiling`
+    - Purpose: Generates a profile report of the dataset, offering insights into data distributions, missing values, correlations, etc.
+      
   - **Pickle:** A module for serializing and deserializing Python objects.
     - Comes with Python standard library, no separate installation required.
     - Purpose: Used for saving and loading machine learning models or other Python objects.
