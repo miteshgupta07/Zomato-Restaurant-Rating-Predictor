@@ -3,4 +3,4 @@ matplotlib == 3.8.2
 seaborn == 0.13.1
 scikit-learn == 1.1.0
 plotly == 5.19.0
-ydata_profiling == 
+ydata_profiling == 4.6.1
